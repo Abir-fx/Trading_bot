@@ -41,14 +41,14 @@ Follow these steps to get your intraday trading assistant up and running:
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/intraday-telegram-trader.git
+https://github.com/Abir-fx/Trading_bot.git
 ```
 
 ### 2. **Install Dependencies** 📦
 Navigate to the project directory and install all the required dependencies:
 
 ```bash
-cd intraday-telegram-trader
+cd Trading_bot
 pip install -r requirements.txt
 ```
 
