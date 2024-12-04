@@ -1,0 +1,7 @@
+python-telegram-bot==20.3
+matplotlib
+pandas
+numpy
+alpha_vantage
+nsetools
+schedule
